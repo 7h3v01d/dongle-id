@@ -8,6 +8,8 @@ DONGLE-ID is a small desktop app that reads the real USB descriptors baked into 
 ![python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![UI](https://img.shields.io/badge/UI-PyQt6-orange)
 
+<img width="1313" height="672" alt="screenshot" src="/screenshot.png" />
+
 ---
 
 ## Why
