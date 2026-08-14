@@ -1,0 +1,1 @@
+.venv\Scripts\python.exe dongle_id.py
