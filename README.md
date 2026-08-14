@@ -94,4 +94,4 @@ Contributions and issue reports welcome.
 
 ## License
 
-Add a license of your choice (e.g. MIT) before publishing — none is included by default.
+Leon Priest (2026) -  Apache 2.0
